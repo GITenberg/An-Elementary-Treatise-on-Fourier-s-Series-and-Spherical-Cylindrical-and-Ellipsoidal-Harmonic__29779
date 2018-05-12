@@ -1,0 +1,31 @@
+_repo: An-Elementary-Treatise-on-Fourier-s-Series-and-Spherical-Cylindrical-and-Ellipsoidal-Harmonic__29779
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byerly, William Elwood
+    birthdate: 1849
+    gutenberg_agent_id: '34160'
+    url: http://www.gutenberg.org/2009/agents/34160
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29779'
+  lccn: '04014404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fourier series'
+- !lcsh 'Harmonic analysis'
+- !lcc 'QA'
+title: 'An Elementary Treatise on Fourier''s Series and Spherical, Cylindrical, and
+  Ellipsoidal Harmonics
+
+  With Applications to Problems in Mathematical Physics'
+url: http://www.gutenberg.org/ebooks/29779
